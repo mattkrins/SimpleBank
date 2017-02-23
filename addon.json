@@ -1,0 +1,12 @@
+{
+    "default_changelog": "Applied Hotfix/Patch",
+    "description": "A simple RolePlay banking script.\n\nComes with an ATM to make deposits, withdrawals & transfers and an small EFTPOS machine that shop owners can configure for remote payment.\n\nDesigned for latest version of DarkRP but has limited support included for several other gamemodes.\n\nRequires mysqlite (included) and it's dependencies.",
+    "logo": "C:/Users/mattk/Pictures/SimpleBank/icon.jpg",
+    "tags": [
+        "realism",
+        "roleplay"
+    ],
+    "title": "SimpleBank",
+    "type": "tool",
+    "workshopid": 853964777.0
+}
